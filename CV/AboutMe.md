@@ -12,10 +12,29 @@ trying to understand the basic principles
 
 ## Jobs and education
 
+1988-1993: High School, Liceo Scientifico Galileo Galilei, Nizza Monferrato (AT)
+
+1993-1999: Master Degree Mechanical Engineer, Politecnico di Torino
+
+1999: Esame di Stato
+
+1999 April - 2000 February: Croce Verde di Nizza Monferrato (charity), Volunteer (as alternative to the military service)
+
+2000 April - 2000 September: Centro Ricerche Fiat, post degree stage.
+
+Development of methods for the identification of vehicle dynamics model parameters
+
+2000 October - 2014 March: Centro Ricerche Fiat S.c.p.A, several roles
+
+2014 March - 2016 November: self employee, engineering and vehicle dynamics consulting
+
+2016 November - Present: Leane International s.r.l., Senior Specialist Automotive Applications
+[Leane International s.r.l.](www.leane.it)
 
 ## Organizations
 
 Associazione Projeto Corumba ODV. Co-founder and vice president
+
 [Associazione Projeto Corumba ODV](www.projetocorumba.org) 
 
 Associazione turistica Pro Loco di Nizza Monferrato APS ETS. 
