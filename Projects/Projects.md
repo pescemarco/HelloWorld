@@ -5,6 +5,6 @@
 Here you'll find a list and a short description of my projects on GitHub.
 
 - EduLab: a *no code* project aiming at supporting STEMA in a community
-- AquarIno: Arduino based light control and food dispensing for healthy gold fishes
-- PresepIno: Arduino based light control for classic Italian presepe
+- [AquarIno](https://github.com/pescemarco/Acquarino): Arduino based food dispensing and light control with smooth day-night transition for healthy gold fishes
+- [PresepIno](https://github.com/pescemarco/PresepIno): Arduino based light control for classic Italian presepe
 
